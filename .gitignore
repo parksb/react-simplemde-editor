@@ -1,7 +1,5 @@
 node_modules
 *.log
-/lib
-/typings
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
