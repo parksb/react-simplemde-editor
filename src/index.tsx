@@ -29,6 +29,7 @@ export interface SimpleMDEEditorProps {
   id?: string;
   label?: string;
   onChange: (value: string) => void | any;
+  onBlur?: () => void | any;
   value?: string;
   className?: string;
   extraKeys?: KeyMap;
